@@ -1,0 +1,5 @@
+{
+  "name": "Gemini 3 Pro Doc Chat",
+  "description": "A sophisticated chat interface powered by Gemini 3 Pro Preview, featuring Word document (.docx) text extraction and analysis capabilities.",
+  "requestFramePermissions": []
+}
